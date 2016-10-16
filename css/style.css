@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 16, 2016, 2:17:26 PM
+    Author     : Sarower Jahan
+*/
+
+.pi-btn-base.pi-btn-no-border{
+    background:#046ba2;
+    border-color:#62a9d4;
+    border-top-color:#62a9d4;
+}
+.pi-icon-base{
+    background:#046ba2;
+}
+.pi-section-dark a,
+.pi-section-white .pi-simple-menu > li:hover > a,
+.pi-icon-box .pi-icon-box-icon.pi-icon-box-icon-base, 
+.pi-icon-box-vertical .pi-icon-box-icon.pi-icon-box-icon-base,
+.pi-section-white a{
+    color:#64a9d5;
+}
+.pi-section-white .pi-simple-menu.pi-has-hover-border > li:hover > a > span:before{
+    border-color:#64a9d5;
+}
