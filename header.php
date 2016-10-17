@@ -84,7 +84,7 @@
 
                             <!-- Logo -->
                             <div class="pi-row-block pi-row-block-logo">
-                                <a href="index.php"><img src="images/cphouse_logo.jpg" alt=""></a>
+                                <a href="index.php"><img src="images/cphouse_logo_main.png" alt=""></a>
                             </div>
                             <!-- End logo --> 
 

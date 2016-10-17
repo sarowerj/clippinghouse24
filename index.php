@@ -6,6 +6,79 @@ include('header.php');
     <div class="tp-banner-container">
         <div class="tp-banner pi-revolution-slider" >
             <ul class="">
+
+                <!-- SLIDE  -->
+                <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" >
+                    <!-- MAIN IMAGE -->
+                    <img src="img_external/revolution-slider/back-8.jpg"  alt=""  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+                    <!-- LAYERS -->
+
+                    <!-- LAYER NR. 1 -->
+                    <div class="tp-caption sfb fadeout"
+                         data-x="650"
+                         data-y="150"
+                         data-speed="800"
+                         data-start="1500"
+                         data-easing="Power4.easeOut"
+                         data-endspeed="300"
+                         data-endeasing="Power1.easeIn"
+                         data-captionhidden="on"
+                         style="z-index: 3"><img src="images/keds_main.png" alt="">
+                    </div>
+
+                    <!-- LAYER NR. 3 -->
+                    <div class="tp-caption fade fadeout"
+                         data-x="650"
+                         data-y="150"
+                         data-speed="3000"
+                         data-start="2500"
+                         data-easing="Power4.easeOut"
+                         data-endspeed="0"
+                         data-endeasing="Power1.easeIn"
+                         data-captionhidden="on"
+                         style="z-index: 5"><img src="images/keds_color.png" alt="">
+                    </div>
+
+                    <!-- LAYER NR. 4 -->
+                    <div class="tp-caption sft str"
+                         data-x="45" data-hoffset="0"
+                         data-y="157"
+                         data-speed="500"
+                         data-start="2400"
+                         data-easing="Back.easeInOut"
+                         data-endspeed="300"
+                         style="z-index: 6; font-size: 34px; color: #21252b; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; line-height: 40px; background: rgba(255, 255, 255, 0.9); padding: 12px 16px; border-radius: 3px; box-shadow: 0 1px 1px rgba(0,0,0,0.15);">
+                        Modi Tempora Incidunt
+                    </div>
+
+                    <!-- LAYER NR. 5 -->
+                    <div class="tp-caption sfl str"
+                         data-x="45" data-hoffset="0"
+                         data-y="236"
+                         data-speed="500"
+                         data-start="2600"
+                         data-easing="Back.easeInOut"
+                         data-endspeed="300"
+                         style="z-index: 7; font-size: 20px; color: #fff; font-weight: 300; line-height: 28px; background: rgba(33, 37, 43, 0.8); padding: 12px 16px; border-radius: 3px;">
+                        Dolore Magnam Aliquam Quaerat Voluptatem
+                    </div>
+
+                    <!-- LAYER NR. 6 -->
+                    <div class="tp-caption sfb str"
+                         data-x="45" data-hoffset="0"
+                         data-y="303"
+                         data-speed="500"
+                         data-start="2800"
+                         data-easing="Back.easeInOut"
+                         data-endspeed="300"
+                         style="z-index: 8;">
+                        <a href="#" class="btn pi-btn-base">
+                            <i class="icon-cog pi-icon-left"></i>Our services
+                        </a>
+                    </div>
+                </li> 
+                
+                
                 <!-- SLIDE -->
                 <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" >
                     <!-- MAIN IMAGE -->
@@ -50,91 +123,7 @@ include('header.php');
                         We specialize in high volume image editing. Within budget, on time and in accordance with your high quality standards.
                     </div>
 
-                </li>	
-
-                <!-- SLIDE  -->
-                <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" >
-                    <!-- MAIN IMAGE -->
-                    <img src="img_external/revolution-slider/back-8.jpg"  alt=""  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
-                    <!-- LAYERS -->
-
-                    <!-- LAYER NR. 1 -->
-                    <div class="tp-caption sfb fadeout"
-                         data-x="535"
-                         data-y="28"
-                         data-speed="800"
-                         data-start="1500"
-                         data-easing="Power4.easeOut"
-                         data-endspeed="300"
-                         data-endeasing="Power1.easeIn"
-                         data-captionhidden="on"
-                         style="z-index: 3"><img src="img_external/revolution-slider/pad-hands.png" alt="">
-                    </div>
-
-                    <!-- LAYER NR. 2 -->
-                    <div class="tp-caption fade fadeout"
-                         data-x="677"
-                         data-y="72"
-                         data-speed="300"
-                         data-start="1700"
-                         data-easing="Power4.easeOut"
-                         data-endspeed="0"
-                         data-endeasing="Power1.easeIn"
-                         data-captionhidden="on"
-                         style="z-index: 4"><img src="img_external/revolution-slider/drawing-boy-1.png" alt="">
-                    </div>
-
-                    <!-- LAYER NR. 3 -->
-                    <div class="tp-caption fade fadeout"
-                         data-x="677"
-                         data-y="72"
-                         data-speed="300"
-                         data-start="3000"
-                         data-easing="Power4.easeOut"
-                         data-endspeed="0"
-                         data-endeasing="Power1.easeIn"
-                         data-captionhidden="on"
-                         style="z-index: 5"><img src="img_external/revolution-slider/drawing-boy-2.png" alt="">
-                    </div>
-
-                    <!-- LAYER NR. 4 -->
-                    <div class="tp-caption sft str"
-                         data-x="45" data-hoffset="0"
-                         data-y="157"
-                         data-speed="500"
-                         data-start="2400"
-                         data-easing="Back.easeInOut"
-                         data-endspeed="300"
-                         style="z-index: 6; font-size: 34px; color: #21252b; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; line-height: 40px; background: rgba(255, 255, 255, 0.9); padding: 12px 16px; border-radius: 3px; box-shadow: 0 1px 1px rgba(0,0,0,0.15);">
-                        Modi Tempora Incidunt
-                    </div>
-
-                    <!-- LAYER NR. 5 -->
-                    <div class="tp-caption sfl str"
-                         data-x="45" data-hoffset="0"
-                         data-y="236"
-                         data-speed="500"
-                         data-start="2600"
-                         data-easing="Back.easeInOut"
-                         data-endspeed="300"
-                         style="z-index: 7; font-size: 20px; color: #fff; font-weight: 300; line-height: 28px; background: rgba(33, 37, 43, 0.8); padding: 12px 16px; border-radius: 3px;">
-                        Dolore Magnam Aliquam Quaerat Voluptatem
-                    </div>
-
-                    <!-- LAYER NR. 6 -->
-                    <div class="tp-caption sfb str"
-                         data-x="45" data-hoffset="0"
-                         data-y="303"
-                         data-speed="500"
-                         data-start="2800"
-                         data-easing="Back.easeInOut"
-                         data-endspeed="300"
-                         style="z-index: 8;">
-                        <a href="#" class="btn pi-btn-base">
-                            <i class="icon-cog pi-icon-left"></i>Our services
-                        </a>
-                    </div>
-                </li> 
+                </li>
 
             </ul>
         </div>
@@ -409,7 +398,7 @@ include('header.php');
 
     <!-- - - - - - - - - - SECTION - - - - - - - - - -->
 
-    <div class="pi-section-w pi-section-parallax pi-slider-enabled" style="background-image: url(img_external/gallery/consulting.jpg);">
+    <div class="pi-section-w pi-section-parallax pi-slider-enabled" style="background-image: url(images/parallax_bg.jpg);">
         <div class="pi-texture" style="background: rgba(30, 35, 41, 0.7);"></div>
         <div class="pi-section pi-padding-top-100 pi-padding-bottom-80">
 
@@ -541,10 +530,21 @@ include('header.php');
                     </h2>
 
                     <!-- Progress bar -->
+                    <div class="pi-counter pi-counter-line pi-slave" data-counter-type="line" data-count-from="0" data-count-to="85" data-easing="easeInCirc" data-duration="2000" data-frames-per-second="10">
+
+                        <div class="pi-counter-count">
+                            <p><i class="icon-globe pi-icon-left"></i>Global Communication</p>
+                            <div class="pi-counter-progress pi-bar-four"></div>
+                        </div>
+
+                    </div>
+                    <!-- End progress bar -->
+
+                    <!-- Progress bar -->
                     <div class="pi-counter pi-counter-line" data-counter-type="line" data-count-from="0" data-count-to="85" data-easing="easeInCirc" data-duration="2000" data-frames-per-second="10">
 
                         <div class="pi-counter-count">
-                            <p><i class="icon-pencil pi-icon-left"></i>System design 85%</p>
+                            <p><i class="icon-pencil pi-icon-left"></i>Clipping Path</p>
                             <div class="pi-counter-progress pi-bar-one"></div>
                         </div>
 
@@ -555,7 +555,7 @@ include('header.php');
                     <div class="pi-counter pi-counter-line" data-counter-type="line" data-count-from="0" data-count-to="95" data-easing="easeInCirc" data-duration="2000" data-frames-per-second="10">
 
                         <div class="pi-counter-count">
-                            <p><i class="icon-database pi-icon-left"></i>Data analysis 95%</p>
+                            <p><i class="icon-pencil pi-icon-left"></i>Retouch</p>
                             <div class="pi-counter-progress pi-bar-two"></div>
                         </div>
 
@@ -566,19 +566,8 @@ include('header.php');
                     <div class="pi-counter pi-counter-line pi-slave" data-counter-type="line" data-count-from="0" data-count-to="98" data-easing="easeInCirc" data-duration="2000" data-frames-per-second="10">
 
                         <div class="pi-counter-count">
-                            <p><i class="icon-link pi-icon-left"></i>Link-level analysis 98%</p>
+                            <p><i class="icon-air pi-icon-left"></i>Layer and Hair Masking</p>
                             <div class="pi-counter-progress pi-bar-three"></div>
-                        </div>
-
-                    </div>
-                    <!-- End progress bar -->
-
-                    <!-- Progress bar -->
-                    <div class="pi-counter pi-counter-line pi-slave" data-counter-type="line" data-count-from="0" data-count-to="85" data-easing="easeInCirc" data-duration="2000" data-frames-per-second="10">
-
-                        <div class="pi-counter-count">
-                            <p><i class="icon-eye pi-icon-left"></i>Coverage modelling 85%</p>
-                            <div class="pi-counter-progress pi-bar-four"></div>
                         </div>
 
                     </div>
@@ -602,11 +591,11 @@ include('header.php');
 
                     <!-- Team member -->
                     <div class="pi-img-w pi-img-round-corners pi-img-shadow">
-                        <img src="img_external/team/leader-11.jpg" alt="">
+                        <img src="images/shakil.jpg" alt="">
                         <div class="pi-img-overlay pi-img-overlay-darker">
                             <div class="pi-caption-centered">
                                 <div>
-                                    <a href="#">
+                                    <a target="_blank" href="https://www.facebook.com/shakil022">
                                         <span class="pi-caption-icon pi-caption-icon-small pi-caption-scale icon-facebook"></span>
                                     </a>
                                     <a href="#">
@@ -622,7 +611,7 @@ include('header.php');
                             </div>
                         </div>
                     </div>
-                    <h6 class="pi-weight-700 pi-uppercase pi-letter-spacing">Mike Ross</h6>	
+                    <h6 class="pi-weight-700 pi-uppercase pi-letter-spacing">Shakil Ahmed Khan</h6>	
                     <p class="pi-italic pi-text-base">
                         Co-Founder, Art Director
                     </p>
@@ -636,11 +625,11 @@ include('header.php');
 
                     <!-- Team member -->
                     <div class="pi-img-w pi-img-round-corners pi-img-shadow">
-                        <img src="img_external/team/leader-22.jpg" alt="">
+                        <img src="images/biva.jpg" alt="">
                         <div class="pi-img-overlay pi-img-overlay-darker">
                             <div class="pi-caption-centered">
                                 <div>
-                                    <a href="#">
+                                    <a target="_blank" href="https://www.facebook.com/biva.talukdar">
                                         <span class="pi-caption-icon pi-caption-icon-small pi-caption-scale icon-facebook"></span>
                                     </a>
                                     <a href="#">
@@ -653,9 +642,9 @@ include('header.php');
                             </div>
                         </div>
                     </div>
-                    <h6 class="pi-weight-700 pi-uppercase pi-letter-spacing">Mattias Nuffer</h6>	
+                    <h6 class="pi-weight-700 pi-uppercase pi-letter-spacing">Biva Rahman</h6>	
                     <p class="pi-italic pi-text-base">
-                        Co-Founder, Web Developer
+                        Graphic Designer
                     </p>
                     <!-- End team member -->
 
@@ -669,11 +658,11 @@ include('header.php');
 
                     <!-- Team member -->
                     <div class="pi-img-w pi-img-round-corners pi-img-shadow">
-                        <img src="img_external/team/leader-33.jpg" alt="">
+                        <img src="images/yeasin.jpg" alt="">
                         <div class="pi-img-overlay pi-img-overlay-darker">
                             <div class="pi-caption-centered">
                                 <div>
-                                    <a href="#">
+                                    <a target="_blank" href="https://www.facebook.com/yeasin.khan.9659">
                                         <span class="pi-caption-icon pi-caption-icon-small pi-caption-scale icon-facebook"></span>
                                     </a>
                                     <a href="#">
@@ -686,7 +675,7 @@ include('header.php');
                             </div>
                         </div>
                     </div>
-                    <h6 class="pi-weight-700 pi-uppercase pi-letter-spacing">Kindra Hall</h6>	
+                    <h6 class="pi-weight-700 pi-uppercase pi-letter-spacing">Yeasin Khan</h6>	
                     <p class="pi-italic pi-text-base">
                         Web & Graphic Designer
                     </p>
@@ -700,11 +689,14 @@ include('header.php');
 
                     <!-- Team member -->
                     <div class="pi-img-w pi-img-round-corners pi-img-shadow">
-                        <img src="img_external/team/leader-44.jpg" alt="">
+                        <img src="images/rabbi.jpg" alt="">
                         <div class="pi-img-overlay pi-img-overlay-darker">
                             <div class="pi-caption-centered">
                                 <div>
-                                    <a href="#">
+                                    <a target="_blank" href="https://www.facebook.com/fazlerabbi.shagor">
+                                        <span class="pi-caption-icon pi-caption-icon-small pi-caption-scale icon-facebook"></span>
+                                    </a>
+                                    <a target="_blank" href="https://www.facebook.com/fazlerabbi.shagor">
                                         <span class="pi-caption-icon pi-caption-icon-small pi-caption-scale icon-instagram"></span>
                                     </a>
                                     <p>
@@ -714,7 +706,7 @@ include('header.php');
                             </div>
                         </div>
                     </div>
-                    <h6 class="pi-weight-700 pi-uppercase pi-letter-spacing">Jim Terrell</h6>	
+                    <h6 class="pi-weight-700 pi-uppercase pi-letter-spacing">Fazle Rabbi</h6>	
                     <p class="pi-italic pi-text-base">
                         Client Manager
                     </p>
@@ -733,7 +725,7 @@ include('header.php');
 
     <!-- - - - - - - - - - SECTION - - - - - - - - - -->
 
-    <div class="pi-section-w pi-section-parallax" style="background-image: url(img_external/gallery/new-york.jpg);">
+    <div class="pi-section-w pi-section-parallax" style="background-image: url(images/parallax_bg.jpg);">
         <div class="pi-texture pi-section-overlay-base"></div>
         <div class="pi-section pi-padding-bottom-30">
 
@@ -742,17 +734,17 @@ include('header.php');
 
                 <!-- Col 3 -->
                 <div class="pi-col-sm-3 pi-col-2xs-6 pi-padding-bottom-20">
-                    <div class="pi-counter pi-counter-simple" data-count-from="0" data-count-to="5" data-easing="easeInCirc" data-duration="1000" data-frames-per-second="0">
+                    <div class="pi-counter pi-counter-simple" data-count-from="0" data-count-to="13" data-easing="easeInCirc" data-duration="1000" data-frames-per-second="0">
                         <div class="pi-counter-count pi-counter-count-big pi-text-white pi-weight-300">
 
                             <p>
-                                <i class="icon-briefcase pi-icon pi-icon-big pi-text-white"></i>
+                                <i class="icon-users pi-icon pi-icon-big pi-text-white"></i>
                             </p>
 
-                            <div class="pi-counter-number">5</div>
+                            <div class="pi-counter-number">13</div>
 
                         </div>
-                        <p>Sed ut perspic unde</p>
+                        <p>Total Employees</p>
                     </div>
                 </div>
                 <!-- End col 3 -->
@@ -763,47 +755,47 @@ include('header.php');
                         <div class="pi-counter-count pi-counter-count-big pi-text-white pi-weight-300">
 
                             <p>
-                                <i class="icon-globe pi-icon pi-icon-big pi-text-white"></i>
+                                <i class="icon-leaf pi-icon pi-icon-big pi-text-white"></i>
                             </p>
 
-                            $<span class="pi-counter-number">26</span>
+                            <span class="pi-counter-number">26</span>
 
                         </div>
-                        <p>Deserunt mollitia animi</p>
+                        <p>Images per hour</p>
                     </div>
                 </div>
                 <!-- End col 3 -->
 
                 <!-- Col 3 -->
                 <div class="pi-col-sm-3 pi-col-2xs-6 pi-padding-bottom-20">
-                    <div class="pi-counter pi-counter-simple" data-count-from="0" data-count-to="73" data-easing="easeInCirc" data-duration="3000" data-frames-per-second="10">
+                    <div class="pi-counter pi-counter-simple" data-count-from="0" data-count-to="24" data-easing="easeInCirc" data-duration="3000" data-frames-per-second="10">
                         <div class="pi-counter-count pi-counter-count-big pi-text-white pi-weight-300">
 
                             <p>
-                                <i class="icon-download pi-icon pi-icon-big pi-text-white"></i>
+                                <i class="icon-clock pi-icon pi-icon-big pi-text-white"></i>
                             </p>
 
-                            <span class="pi-counter-number">73</span>%
+                            <span class="pi-counter-number">24</span>
 
                         </div>
-                        <p>Temporibus autem</p>
+                        <p>Hours per day</p>
                     </div>
                 </div>
                 <!-- End col 3 -->
 
                 <!-- Col 3 -->
                 <div class="pi-col-sm-3 pi-col-2xs-6 pi-padding-bottom-20">
-                    <div class="pi-counter pi-counter-simple" data-count-from="0" data-count-to="59" data-easing="easeInCirc" data-duration="4000" data-frames-per-second="10">
+                    <div class="pi-counter pi-counter-simple" data-count-from="0" data-count-to="2500" data-easing="easeInCirc" data-duration="4000" data-frames-per-second="10">
                         <div class="pi-counter-count pi-counter-count-big pi-text-white pi-weight-300">
 
                             <p>
                                 <i class="icon-paper-plane pi-icon pi-icon-big pi-text-white"></i>
                             </p>
 
-                            <span class="pi-counter-number">59</span>k
+                            <span class="pi-counter-number">2500</span>
 
                         </div>
-                        <p>Similique sunt in culpa</p>
+                        <p>Image done</p>
                     </div>
                 </div>
                 <!-- End col 3 -->

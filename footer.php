@@ -39,19 +39,16 @@
 
                     <li>
                         <span class="pi-bullet-icon"><i class="icon-phone"></i></span>
-                        <strong>Phone:</strong> (123) 456-7890
+                        <strong>Phone:</strong> <a href="tel:+88 01786 652427">+88 01786 652427</a>
                     </li>
 
                     <li>
                         <span class="pi-bullet-icon"><i class="icon-mail"></i></span>
-                        <strong>Email:</strong> <a href="mailto:hello@pitheme.com">hello@pitheme.com</a>
+                        <strong>Email:</strong> <a href="mailto:shakil.tasan@gmail.com">shakil.tasan@gmail.com</a>
                     </li>
-
                     <li>
-                        <span class="pi-bullet-icon"><i class="icon-clock"></i></span>
-                        Monday - Friday: <strong>9:00 am - 10:00 pm</strong>
-                        <br>
-                        Saturday - Sunday: <strong>Closed</strong>
+                        <span class="pi-bullet-icon"><i class="icon-skype"></i></span>
+                        <strong>Skype:</strong> <a href="callto:cphouse24">cphouse24</a>
                     </li>
 
                 </ul>
