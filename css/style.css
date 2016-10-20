@@ -27,7 +27,7 @@ and open the template in the editor.
 }
 .pi-section-dark a,
 .pi-section-white .pi-simple-menu > li:hover > a,
-.pi-icon-box .pi-icon-box-icon.pi-icon-box-icon-base, 
+.pi-icon-box .pi-icon-box-icon.pi-icon-box-icon-base,
 .pi-icon-box-vertical .pi-icon-box-icon.pi-icon-box-icon-base,
 .pi-section-white a,
 .pi-section-dark h1 a.pi-link-no-style:hover, 
@@ -57,4 +57,10 @@ and open the template in the editor.
 }
 .pi-section-overlay-base{
     background: rgba(0, 0,0, 0.5);
+} 
+
+
+
+.values .pi-icon-box .pi-icon-box-icon.pi-icon-box-icon-base{
+    color:white;
 }

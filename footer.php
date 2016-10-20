@@ -146,7 +146,6 @@
 </div>
 <div class="pi-scroll-top-arrow" data-scroll-to="0"></div>
 
-<script src="3dParty/jquery-1.11.0.min.js"></script>
 <script src="3dParty/bootstrap/js/bootstrap.min.js"></script>
 <script src="3dParty/jquery.touchSwipe.min.js"></script>
 <script src="3dParty/gauge.min.js"></script>
