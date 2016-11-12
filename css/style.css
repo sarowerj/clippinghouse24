@@ -64,3 +64,65 @@ and open the template in the editor.
 .values .pi-icon-box .pi-icon-box-icon.pi-icon-box-icon-base{
     color:white;
 }
+
+
+
+.inner_page.pricing .pi-pricing{
+    width:33.33%;
+    float:left;
+    margin-right:-1px;
+}
+.inner_page.pricing .pi-pricing thead td{
+    border-radius:0;
+}
+.inner_page.pricing .pi-pricing .pi-pricing-amount{
+    font-size:36px;
+}
+.inner_page.pricing .item_row{
+    border:1px solid #e5eaea;
+    display:table;
+    width:100%;
+    margin-bottom:-1px;
+}
+.inner_page.pricing .item_row .item_head{
+    padding:30px 15px;
+    text-align:center;
+    background:#64a9d5;
+    margin:0 -1px 0 0;
+    width:33.33%;
+    display:table-cell;
+    border-right:1px solid #4f96c3;
+}
+.inner_page.pricing .item_row .item_content{
+    width:33.33%;
+    display:table-cell;
+    margin:0 -1px 0 0;
+    border-right:1px solid #e5eaea;
+    text-align: center;
+    vertical-align: middle;
+}
+.inner_page.pricing .item_row .item_content .large{
+    font-size:26px;
+    font-weight:100;
+}
+.inner_page.pricing .item_row .item_content .line{
+    padding:13px 15px;
+    border-bottom:1px solid #e5eaea
+}
+.inner_page.pricing .item_row .item_content .line:last-child{
+    border-bottom:0;
+}
+.inner_page.pricing .item_row .item_content:last-child{
+    border-right:0;
+}
+.inner_page.pricing .item_row .item_head .big_text{ 
+    color:white;
+    font-size:36px;
+    line-height:44px;
+    font-weight: 100;
+}
+.inner_page.pricing .item_row .item_head .hints{
+    font-style:italic;
+    color:rgba(255,255,255,.5);
+    margin-top:10px;
+}
